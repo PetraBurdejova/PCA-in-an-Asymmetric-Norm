@@ -1,0 +1,15 @@
+
+Name of Quantlet: LAWS_expectile
+
+Published in:     Principal Component Analysis in an Asymmetric Norm
+
+Description:      'Plots the expectile curves (pointwise estimation by LAWS) for several 
+                  tau levels with simulated data.'
+
+Keywords:         LAWS, expectile, curve, tail, simulation
+
+Author:           Chen Huang, Petra Burdejova
+
+Submitted:        Mon, January 16 2017 by Petra Burdejova
+
+Example:          Expectile curves with tau = 0.1, 0.5, 0.9 
