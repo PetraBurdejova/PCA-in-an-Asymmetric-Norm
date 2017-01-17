@@ -1,0 +1,13 @@
+Name of Quantlet: ‘PEC_sim_setup’
+
+Published in: Principal Component Analysis in an Asymmetric Norm
+
+Description: ‘The examplee of simulation setups for PrincipalExpectile'
+
+Keywords: expectile, pca, principal-components, quantile
+
+See also: ‘PEC_temperature.R, PEC_fMRI.R, PEC_algorithm_topdown.R'
+
+Author: Burdejova P.
+
+Submitted:  Mod, Jan 16 2017 by Burdejova Petra
