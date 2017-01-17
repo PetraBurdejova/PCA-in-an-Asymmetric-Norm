@@ -1,6 +1,6 @@
 # ---------------------------------------------------------------------
 # Paper:       	 N.M. Tran, P. Burdejova, M. Osipenko, and W.K. Härdle
-#				"Principal Component Analysis in an Asymmetric Norm"
+#		 "Principal Component Analysis in an Asymmetric Norm"
 # ---------------------------------------------------------------------
 # Quantlet:    	 PEC_sim_setup
 # ---------------------------------------------------------------------
