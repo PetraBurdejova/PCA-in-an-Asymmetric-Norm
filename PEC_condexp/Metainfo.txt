@@ -1,0 +1,13 @@
+Name of Quantlet: 'PEC_condexp’
+
+Published in: Principal Component Analysis in an Asymmetric Norm
+
+Description: ‘PECs as solution of C matrix and conditional expectiles’
+
+Keywords: expectile, pca, principal-components, quantile
+
+See also: ‘PEC_algorithm_princdir.R’
+
+Author: Petra Burdejova
+
+Submitted:  Fri, June 9 2017 by Petra Burdejova
